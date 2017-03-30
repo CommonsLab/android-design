@@ -1,5 +1,5 @@
 # android-design
-Android design for ![CommonsLab application](https://github.com/valdio/CommonsLab)
+Android design for [CommonsLab application](https://github.com/valdio/CommonsLab)
 
 Currently the design of the mobile application is created with Adobe XD as are comfortable with that tool. In the future we can switch to a more open environment for design. Contributions are welcomed :) .
 
